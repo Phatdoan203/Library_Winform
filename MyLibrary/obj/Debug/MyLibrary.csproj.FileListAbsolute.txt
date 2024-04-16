@@ -1,0 +1,17 @@
+D:\Code\DesktopApp\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+D:\Code\DesktopApp\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+D:\Code\DesktopApp\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.SplashForm.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LoginForm.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.MainForm.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.StudentForm.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.BookTbl.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.IssueBookForm.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LibrarianForm.resources
+D:\Code\DesktopApp\MyLibrary\MyLibrary\obj\Debug\MyLibrary.ReturnForm.resources
